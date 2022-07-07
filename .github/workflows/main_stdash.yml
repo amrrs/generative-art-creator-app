@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'stdash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD2F22A7E8AB49B4AF4CDE7E72BE3076 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_091AF8DC30BB4C1391CAC81AF71F8368 }}
